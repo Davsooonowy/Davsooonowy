@@ -9,7 +9,7 @@ I'm in the second year of computer science, I really like Python, sometimes Java
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [dawid.mularczyk@onet.pl](mailto:dawid.mularczyk@onet.pl)
 * 🚀  My portfolio [dawidmularczyk.live](http://dawidmularczyk.live)
-* 🧠  I'm learning mobile app development, web development and much more things during Computer Science course
+* 🧠  I'm learning mobile app development, web development, software developmnet and much more during Computer Science Course
 
 ### Skills
 
