@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student on AGH UST
 -----------------------------------
 
-I'm in the second year of computer science, I really like Python, sometimes Java and Javascript, but I hate functional programming
+Student of computer science. I really like Python, Java and web development. I love learning new technologies, meeting new people and working on creative projects.
 
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [dawid.mularczyk@onet.pl](mailto:dawid.mularczyk@onet.pl)
