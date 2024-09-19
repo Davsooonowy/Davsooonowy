@@ -8,7 +8,7 @@ I really like Python, Java and web development. I love learning new technologies
 
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [dawid.mularczyk@onet.pl](mailto:dawid.mularczyk@onet.pl)
-* 🚀  My portfolio [dawidmularczyk.live](http://dawidmularczyk.live)
+* 🚀  My portfolio [click here](https://davsooonowy.github.io/Portfolio/)
 * 🧠  Enthusiast of web development, software developmnent, but I am open to the entire IT world and I am discovering it more and more.
 
 ### Skills
