@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dawid Mularczyk
 =======================================================================================================================================
 
-Computer Science Student on AGH UST
------------------------------------
+Software Engineer Intern in @Upside
+Computer Science Student on AGH 
 
-I really like Python, Java and web development. I love learning new technologies, meeting new people and working on creative projects.
+I love learning new technologies, meeting new people and working on creative projects.
 
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [dawid.mularczyk@onet.pl](mailto:dawid.mularczyk@onet.pl)
 * 🚀  My portfolio [click here](https://davsooonowy.github.io/Portfolio/)
-* 🧠  Enthusiast of web development, software developmnent, but I am open to the entire IT world and I am discovering it more and more.
+* 🧠  Enthusiast of Software and Web Development, Artifical Inteligence especially LLM
 
 ### Skills
 
