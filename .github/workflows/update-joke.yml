@@ -21,7 +21,7 @@ jobs:
     - name: Update README.md
       run: |
         joke=$(cat joke.txt)
-        sed -i '/<!-- JOKE-PLACEHOLDER -->/a \\\n$joke\n' README.md
+        sed -i '/<!-- joke-placeholder -->/a \\\n$joke\n' README.md
 
     - name: Commit and push changes
       env:
