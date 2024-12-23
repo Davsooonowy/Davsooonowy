@@ -19,9 +19,6 @@
 
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
-Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
-How do you make holy water? You boil the hell out of it.
-\n$joke
 
   
 
