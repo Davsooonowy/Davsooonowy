@@ -19,6 +19,8 @@
 
 ### Here's a Python Joke for You! 😄
 <!-- joke-placeholder -->
+\n$joke
+
   
 
 <br/>  
