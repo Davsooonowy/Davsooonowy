@@ -19,6 +19,7 @@
 
 ### Here's a Python Joke for You! 😄
 <!-- joke-placeholder -->
+How do you make holy water? You boil the hell out of it.
 \n$joke
 
   
