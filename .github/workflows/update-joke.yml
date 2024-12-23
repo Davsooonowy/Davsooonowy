@@ -17,9 +17,10 @@ jobs:
 
     - name: Fetch joke and update README
       run: |
-        joke=$(curl -H "Accept: text/plain" https://icanhazdadjoke.com/)
-        echo "Joke: $joke"
-        sed -i 's|<!-- joke-placeholder -->|'"$joke"'|g' README.md
+        joke=$(curl -s -H "Accept: text/plain" https://icanhazdadjoke.com/)
+        joke_escaped=$(printf '%s\n' "$joke" | sed -e 's/[\/&]/\\&/g') # Escape special characters
+        sed -i 's|<!-- joke-placeholder -->|'"$joke_escaped"'|g' README.md
+
 
     - name: Commit the updated README
       env:
