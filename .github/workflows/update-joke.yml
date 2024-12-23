@@ -16,12 +16,13 @@ jobs:
     - name: Get a random joke
       id: joke
       run: |
-        curl -s https://v2.jokeapi.dev/joke/Any?type=single | jq -r '.joke' > joke.txt
+        joke=$(curl -s https://v2.jokeapi.dev/joke/Any?type=single | jq -r '.joke')
+        echo "$joke" > joke.txt
 
     - name: Update README.md
       run: |
         joke=$(cat joke.txt)
-        sed -i '/<!-- joke-placeholder -->/a \\\n$joke\n' README.md
+        sed -i "/<!-- joke-placeholder -->/a \\\n$joke\n" README.md
 
     - name: Commit and push changes
       env:
