@@ -3,29 +3,25 @@
 </div>  
   
 
-### <div align="center">![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-</div>  
+## <div align="center"> Welcome to My Profile 🚀 </div>  
+
   
 
-- 🏢Software Engineer Intern in @upsidelab  
+- 💼 **Software Engineer Intern** at [upsidelab](https://upsidelab.io/)
   
-
-- 🎓Computer Science at AGH UST   
+- 🎓 **Computer Science Student** at AGH UST
   
-
-- 🌱 I’m currently exploring the world of software development  
+- 🌱 Exploring **Software Development** and **DevOps**
   
-
-- 🚀  My portfolio [click here](https://davsooonowy.github.io/Portfolio/)  
+- ⚡️ Portfolio: [click here!](https://davsooonowy.github.io/Portfolio/)
   
-
-- 🙋I like hiking⛰️, handball🤾, playing the guitar🎸 and many more  
+- 🙋 Enjoys **hiking** ⛰️, **handball** 🤾, and **playing the guitar** 🎸
   
 
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set ⚡️
 <table><tr><td valign="top" width="33%">
 
 
@@ -90,7 +86,7 @@
 <br/>  
 
 
-## Connect with me  
+## Let's Connect 🌐
 <div align="center">
 <a href="https://github.com/Davsooonowy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -104,7 +100,7 @@
 <br/>  
 
 
-## Github Stats  
+## GitHub Stats 📊
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davsooonowy&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
