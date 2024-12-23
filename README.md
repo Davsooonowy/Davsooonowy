@@ -16,6 +16,9 @@
 - ⚡️ Portfolio: [click here!](https://davsooonowy.github.io/Portfolio/)
   
 - 🙋 Enjoys **hiking** ⛰️, **handball** 🤾, and **playing the guitar** 🎸
+
+### Here's a Python Joke for You! 😄
+<!-- joke-placeholder -->
   
 
 <br/>  
