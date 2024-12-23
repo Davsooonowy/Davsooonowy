@@ -1,0 +1,40 @@
+name: Update Python Joke
+
+on:
+  schedule:
+    - cron: '0 12 * * *' 
+  push:
+    branches:
+      - main
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install pyjoke
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyjoke
+
+    - name: Generate joke and update README
+      run: |
+        joke=$(python -c "import pyjoke; print(pyjoke.get_joke())")
+        echo "Joke: $joke"
+        sed -i 's|<!-- joke-placeholder -->|'"$joke"'|g' README.md
+
+    - name: Commit the updated README
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update joke in README"
+        git push
