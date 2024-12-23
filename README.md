@@ -17,7 +17,7 @@
   
 - 🙋 Enjoys **hiking** ⛰️, **handball** 🤾, and **playing the guitar** 🎸
 
-### Here's a Python Joke for You! 😄
+### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 How do you make holy water? You boil the hell out of it.
 \n$joke
