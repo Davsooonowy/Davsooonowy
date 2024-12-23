@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://ibb.co/SrTj5C4"><img src="https://i.ibb.co/dg9TjYw/github-header-image.png" align="center" style="width: 100% alt="github-header-image" border="0" /></a>
+  <a href="https://ibb.co/SrTj5C4"><img src="https://i.ibb.co/dg9TjYw/github-header-image.png" align="center" style="width: 100%" alt="github-header-image" /></a>
 </div>  
   
 
-### <div align="center">Welcome to my profile! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### <div align="center">![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 </div>  
   
 
