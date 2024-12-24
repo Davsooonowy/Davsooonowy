@@ -19,10 +19,11 @@
 
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
+<!-- joke-content -->
+I was reading a great book about an immortal dog the other day. It was impossible to put down.
+<!-- end-joke-content -->
 This joke changes every day automatically.
 
-<!-- joke-content -->
-<!-- end-joke-content -->
   
 
 <br/>  
