@@ -18,12 +18,10 @@ jobs:
       run: |
         joke=$(curl -s https://v2.jokeapi.dev/joke/Any?type=single | jq -r '.joke')
         echo "$joke" > joke.txt
-
     - name: Update README.md
       run: |
         joke=$(cat joke.txt)
-        sed -i "s|<!-- joke-placeholder -->.*|<!-- joke-placeholder -->\n$joke|" README.md
-
+        sed -i "s/<!-- joke-placeholder -->.*/<!-- joke-placeholder -->\n$joke/" README.md
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
