@@ -19,9 +19,9 @@
 
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
-I visited my friend at his new house. He told me to make myself at home. So I threw him out. I hate having visitors.
-Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
+This joke changes every day automatically.
 
+<!-- joke-content -->
   
 
 <br/>  
