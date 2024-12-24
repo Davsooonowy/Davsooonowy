@@ -21,12 +21,13 @@ jobs:
 
     - name: Clear previous joke
       run: |
-        sed -i '/<!-- joke-content -->/,$d' README.md
+        sed -i '/<!-- joke-content -->/,/<!-- end-joke-content -->/d' README.md
 
     - name: Update README.md with new joke
       run: |
         joke=$(cat joke.txt)
-        sed -i "s/<!-- joke-content -->.*/<!-- joke-content -->\n$joke/" README.md
+        sed -i "/<!-- joke-placeholder -->/a <!-- joke-content -->\n$joke\n<!-- end-joke-content -->" README.md
+
     - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
