@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I was reading a great book about an immortal dog the other day. It was impossible to put down.
+How do you make holy water? You boil the hell out of it.
 <!-- end-joke-content -->
 This joke changes every day automatically.
 
