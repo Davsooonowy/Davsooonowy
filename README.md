@@ -22,7 +22,7 @@
 <!-- joke-content -->
 How do you make holy water? You boil the hell out of it.
 <!-- end-joke-content -->
-This joke changes every day automatically.
+**This joke changes every day automatically.**
 
   
 
