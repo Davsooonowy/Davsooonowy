@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How do you make holy water? You boil the hell out of it.
+Relationship Status: just tried to reach for my dog's paw and he pulled it away so I pretended I was reaching for the remote.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
