@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Debugging: Removing the needles from the haystack.
+I have a joke about Stack Overflow, but you would say it's a duplicate.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
