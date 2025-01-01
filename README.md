@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Your momma is so fat, you need to switch to NTFS to store a picture of her.
+Schrödinger's cat walks into a bar and doesn't.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
