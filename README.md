@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Schrödinger's cat walks into a bar and doesn't.
+I have a fish that can breakdance! Only for 20 seconds though, and only once.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
