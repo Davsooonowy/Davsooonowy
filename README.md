@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I have a fish that can breakdance! Only for 20 seconds though, and only once.
+Hey girl are you a school? Because I want to shoot some kids up inside of you.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
