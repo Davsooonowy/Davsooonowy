@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Hey girl are you a school? Because I want to shoot some kids up inside of you.
+How do you make holy water? You freeze it and drill holes in it.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
