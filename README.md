@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How do you make holy water? You freeze it and drill holes in it.
+My parents raised me as an only child, which really annoyed my younger brother.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
