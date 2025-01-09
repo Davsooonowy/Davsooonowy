@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My parents raised me as an only child, which really annoyed my younger brother.
+Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
