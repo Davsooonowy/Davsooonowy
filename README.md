@@ -20,7 +20,7 @@
 ### Here's a Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
+What is the leading cause of dry skin? Towels
 <!-- end-joke-content -->
 **This joke changes every day automatically.**
 
