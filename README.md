@@ -17,12 +17,12 @@
   
 - 🙋 Enjoys **hiking** ⛰️, **handball** 🤾, and **playing the guitar** 🎸
 
-### Here's a Joke for You! 😄
+### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
 What is the leading cause of dry skin? Towels
 <!-- end-joke-content -->
-**This joke changes every day automatically.**
+**This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
   
 
