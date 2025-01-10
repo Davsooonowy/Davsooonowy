@@ -16,7 +16,7 @@ jobs:
     - name: Get a random joke
       id: joke
       run: |
-        joke=$(curl -s https://v2.jokeapi.dev/joke/Any?type=single | jq -r '.joke')
+        joke=$(curl -s -H "Accept: text/plain" https://icanhazdadjoke.com/)
         echo "$joke" > joke.txt
 
     - name: Clear previous joke
@@ -36,4 +36,4 @@ jobs:
         git config --global user.email "action@github.com"
         git add README.md
         git commit -m "Add daily joke"
-        git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        git push
