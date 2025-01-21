@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Breaking news! Energizer Bunny arrested – charged with battery.
+I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
