@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+How come a man driving a train got struck by lightning? He was a good conductor.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
