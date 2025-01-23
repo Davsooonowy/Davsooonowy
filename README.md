@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How come a man driving a train got struck by lightning? He was a good conductor.
+The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
