@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Geology rocks, but Geography is where it's at!
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
