@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+Milk is also the fastest liquid on earth – its pasteurized before you even see it
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
