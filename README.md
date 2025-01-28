@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Milk is also the fastest liquid on earth – its pasteurized before you even see it
+I'd like to start a diet, but I've got too much on my plate right now.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
