@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I'd like to start a diet, but I've got too much on my plate right now.
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
