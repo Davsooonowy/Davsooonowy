@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-New atoms frequently lose electrons when they fail to keep an ion them.
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
