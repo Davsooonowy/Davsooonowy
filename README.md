@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did one wall say to the other wall? I'll meet you at the corner!
+I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
