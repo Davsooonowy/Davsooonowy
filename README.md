@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
+What's a ninja's favorite type of shoes? Sneakers!
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
