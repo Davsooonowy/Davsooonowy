@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's a ninja's favorite type of shoes? Sneakers!
+What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
