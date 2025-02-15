@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
