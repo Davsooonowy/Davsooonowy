@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+I was so proud when I finished the puzzle in six months, when on the side it said three to four years.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
