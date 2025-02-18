@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.
+I been watching a channel on TV that is strictly just about origami — of course it is paper-view.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
