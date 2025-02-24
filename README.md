@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
