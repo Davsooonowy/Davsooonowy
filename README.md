@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you do on a remote island? Try and find the TV island it belongs to.
+What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
