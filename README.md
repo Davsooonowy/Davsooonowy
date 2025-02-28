@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+What's the worst thing about ancient history class? The teachers tend to Babylon.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
