@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-The shovel was a ground-breaking invention.
+So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
