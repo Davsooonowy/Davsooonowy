@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Chances are if you' ve seen one shopping center, you've seen a mall.
+For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
