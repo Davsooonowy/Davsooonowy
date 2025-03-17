@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+No matter how kind you are, German children are kinder.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
