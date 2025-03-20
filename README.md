@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why are ghosts bad liars? Because you can see right through them!
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
