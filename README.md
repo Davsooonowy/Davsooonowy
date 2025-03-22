@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I used to think I was indecisive, but now I'm not sure.
+Yesterday I confused the words "jacuzzi" and "yakuza". Now I'm in hot water with the Japanese mafia.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
