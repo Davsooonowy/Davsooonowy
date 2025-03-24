@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+Why do cows wear bells? Because their horns don't work.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
