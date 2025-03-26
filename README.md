@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
