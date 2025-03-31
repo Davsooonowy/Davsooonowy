@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
