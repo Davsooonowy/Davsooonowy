@@ -7,7 +7,7 @@
 
   
 
-- 💼 **Software Engineer Intern** at [upsidelab](https://upsidelab.io/)
+- 💼 **Software Engineer** at [upsidelab](https://upsidelab.io/)
   
 - 🎓 **Computer Science Student** at AGH UST
   
