@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Is there a hole in your shoe? No… Then how’d you get your foot in it?
+What do you do when your bunny gets wet? You get your hare dryer.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
