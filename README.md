@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I've just written a song about a tortilla. Well, it is more of a rap really.
+Did you hear that David lost his ID in prague? Now we just have to call him Dav.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
