@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-When Dad drops a pea off of his plate ‘oh dear I’ve pee’d on the table!
+Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
