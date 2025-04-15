@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Every machine in the coin factory broke down all of a sudden without explanation. It just doesn’t make any cents.
+What did the dog say to the two trees? Bark bark.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
