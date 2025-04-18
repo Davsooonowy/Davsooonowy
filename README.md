@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My wife said I was immature. So I told her to get out of my fort.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
