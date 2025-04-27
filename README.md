@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.
+"I'm sorry." "Hi sorry, I'm dad"
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
