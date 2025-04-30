@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why did the chicken get a penalty? For fowl play.
+Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
