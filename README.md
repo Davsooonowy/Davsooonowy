@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
