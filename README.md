@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+Where do sheep go to get their hair cut? The baa-baa shop.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
