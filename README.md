@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where do sheep go to get their hair cut? The baa-baa shop.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
