@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you get when you cross a chicken with a skunk? A fowl smell!
+Have you ever heard of a music group called Cellophane? They mostly wrap.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
