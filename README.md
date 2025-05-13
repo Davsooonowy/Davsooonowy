@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+An apple a day keeps the bullies away. If you throw it hard enough.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
