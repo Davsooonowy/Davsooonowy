@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why didn’t the skeleton cross the road? Because he had no guts.
+Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
