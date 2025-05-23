@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where’s the bin? Dad: I haven’t been anywhere!
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
