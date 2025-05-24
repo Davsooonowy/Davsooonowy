@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+Why was the big cat disqualified from the race? Because it was a cheetah.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
