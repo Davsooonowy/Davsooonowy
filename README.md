@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why was the big cat disqualified from the race? Because it was a cheetah.
+My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
