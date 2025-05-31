@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+Why did the m&m go to school? Because it wanted to be a Smartie!
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
