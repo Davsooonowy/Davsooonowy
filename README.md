@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I used to work in a shoe recycling shop. It was sole destroying.
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
