@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+I was thinking about moving to Moscow but there is no point Russian into things.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
