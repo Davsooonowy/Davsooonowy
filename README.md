@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What’s Forest Gump’s Facebook password? 1forest1
+A doll was recently found dead in a rice paddy. It's the only known instance of a nick nack paddy wack.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
