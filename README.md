@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
+I once lost a banana at court but then I appealed. 
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
