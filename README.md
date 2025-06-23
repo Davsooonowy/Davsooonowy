@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+I accidentally took my cats meds last night. Don’t ask meow.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
