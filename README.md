@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
