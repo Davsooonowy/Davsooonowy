@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.
+What do you do when your bunny gets wet? You get your hare dryer.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
