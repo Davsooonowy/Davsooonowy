@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How are false teeth like stars? They come out at night!
+I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
