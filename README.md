@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I cut my finger chopping cheese, but I think that I may have grater problems.
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
