@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+People are making apocalypse jokes like there’s no tomorrow.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
