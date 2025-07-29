@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+If two vegans are having an argument, is it still considered beef?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
