@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-If two vegans are having an argument, is it still considered beef?
+Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
