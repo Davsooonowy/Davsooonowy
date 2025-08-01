@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How come the stadium got hot after the game? Because all of the fans left.
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
