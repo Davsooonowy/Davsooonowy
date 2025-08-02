@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+They tried to make a diamond shaped like a duck. It quacked under the pressure.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
