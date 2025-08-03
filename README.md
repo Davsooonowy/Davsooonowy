@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-They tried to make a diamond shaped like a duck. It quacked under the pressure.
+I went on a date last night with a girl from the zoo. It was great. She’s a keeper.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
