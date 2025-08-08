@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why do pirates not know the alphabet? They always get stuck at "C".
+Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
