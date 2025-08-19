@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why did the Clydesdale give the pony a glass of water?  Because he was a little horse!
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
