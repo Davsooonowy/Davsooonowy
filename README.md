@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+How does the moon cut his hair? Eclipse it.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
