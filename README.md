@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Two guys walked into a bar, the third one ducked.
+Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
