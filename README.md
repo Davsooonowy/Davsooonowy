@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
