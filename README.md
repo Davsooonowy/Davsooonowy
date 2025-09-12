@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-When I left school, I passed every one of my exams with the exception of Greek Mythology. It always was my achilles elbow
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
