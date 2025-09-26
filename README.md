@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-This morning I was wondering where the sun was, but then it dawned on me.
+Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
