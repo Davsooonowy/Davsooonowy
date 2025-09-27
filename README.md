@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
