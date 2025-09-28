@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+What do you call two guys hanging out by your window? Kurt & Rod.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
