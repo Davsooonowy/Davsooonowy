@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Who did the wizard marry? His ghoul-friend
+A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
