@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A man is washing the car with his son. The son asks...... "Dad, can’t you just use a sponge?"
+It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
