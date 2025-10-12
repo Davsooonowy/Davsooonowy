@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I asked the surgeon if I could administer my own anesthetic, they said: go ahead, knock yourself out.
+Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
