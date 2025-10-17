@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+Why didn't the number 4 get into the nightclub? Because he is 2 square.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
