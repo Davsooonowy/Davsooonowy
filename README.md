@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
