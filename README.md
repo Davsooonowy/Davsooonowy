@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+A cannibal is someone who is fed up with people.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
