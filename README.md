@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+What did the piece of bread say to the knife? Butter me up.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
