@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why don't eggs tell jokes? They'd crack each other up
+Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
