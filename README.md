@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Don’t interrupt someone working intently on a puzzle. Chances are, you’ll hear some crosswords.
+What did the big flower say to the littler flower? Hi, bud!
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
