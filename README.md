@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the big flower say to the littler flower? Hi, bud!
+I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
