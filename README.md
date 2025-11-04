@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I accidentally drank a bottle of invisible ink. Now I’m in hospital, waiting to be seen.
+Have you heard about the owl sanctuary job opening? It’s all night shifts but they’re all a hoot over there.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
