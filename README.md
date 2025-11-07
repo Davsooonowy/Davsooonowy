@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+What did Yoda say when he saw himself in 4K? "HDMI"
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
