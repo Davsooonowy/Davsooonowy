@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why didn’t the orange win the race? It ran out of juice.
+Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
