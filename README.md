@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Sometimes I tuck my knees into my chest and lean forward.  That’s just how I roll.
+I went to the doctor today and he told me I had type A blood but it was a type O.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
