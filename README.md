@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where did Captain Hook get his hook? From a second hand store.
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
