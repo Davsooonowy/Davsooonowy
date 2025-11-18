@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What kind of bagel can fly? A plain bagel.
+In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
