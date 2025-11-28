@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
