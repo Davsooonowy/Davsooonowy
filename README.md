@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.
+I’m reading a book on the history of glue – can’t put it down.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
