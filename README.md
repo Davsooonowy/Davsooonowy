@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+I boiled a funny bone last night and had a laughing stock
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
