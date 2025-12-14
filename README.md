@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I boiled a funny bone last night and had a laughing stock
+So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. 
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
