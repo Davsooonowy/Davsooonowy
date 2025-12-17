@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I broke my finger at work today, on the other hand I'm completely fine.
+Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
