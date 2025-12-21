@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I burned 2000 calories today, I left my food in the oven for too long.
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
