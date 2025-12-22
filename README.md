@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
+What do I look like? A JOKE MACHINE!?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
