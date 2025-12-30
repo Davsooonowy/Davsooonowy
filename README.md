@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What kind of dinosaur loves to sleep? A stega-snore-us.
+Why should you never trust a pig with a secret? Because it's bound to squeal.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
