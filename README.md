@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why should you never trust a pig with a secret? Because it's bound to squeal.
+‘Put the cat out’ … ‘I didn’t realize it was on fire
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
