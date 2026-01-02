@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I won an argument with a weather forecaster once. His logic was cloudy...
+Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
