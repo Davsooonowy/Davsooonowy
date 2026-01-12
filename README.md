@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+Shout out to my grandma, that's the only way she can hear.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
