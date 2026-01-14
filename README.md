@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What kind of music do mummy's like? Rap
+What cheese can never be yours? Nacho cheese.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
