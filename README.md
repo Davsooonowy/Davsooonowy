@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Geology rocks, but Geography is where it's at!
+What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
