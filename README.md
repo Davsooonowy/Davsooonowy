@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's the best thing about elevator jokes? They work on so many levels.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
