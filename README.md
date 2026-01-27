@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+What did the late tomato say to the early tomato? I’ll ketch up
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
