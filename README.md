@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you hear the news? FedEx and UPS are merging. They’re going to go by the name Fed-Up from now on.
+A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
