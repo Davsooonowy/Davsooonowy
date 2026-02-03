@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+Why did the kid throw the clock out the window? He wanted to see time fly!
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
