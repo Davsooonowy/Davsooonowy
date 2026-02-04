@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why did the kid throw the clock out the window? He wanted to see time fly!
+Why does Superman get invited to dinners? Because he is a Supperhero.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
