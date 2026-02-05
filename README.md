@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why does Superman get invited to dinners? Because he is a Supperhero.
+I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
