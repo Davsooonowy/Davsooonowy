@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+I thought about going on an all-almond diet. But that's just nuts.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
