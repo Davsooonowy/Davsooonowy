@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My boss told me to attach two pieces of wood together... I totally nailed it!
+What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
