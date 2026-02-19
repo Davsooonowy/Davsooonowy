@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My cat was just sick on the carpet, I don’t think it’s feline well.
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
