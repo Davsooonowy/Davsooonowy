@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+Is there a hole in your shoe? No… Then how’d you get your foot in it?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
