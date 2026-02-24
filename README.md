@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+What do you call a group of disorganized cats? A cat-tastrophe.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
