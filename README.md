@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I thought about going on an all-almond diet. But that's just nuts.
+Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
