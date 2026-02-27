@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
+Past, present, and future walked into a bar.... It was tense.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
