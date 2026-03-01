@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why didn't the number 4 get into the nightclub? Because he is 2 square.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
