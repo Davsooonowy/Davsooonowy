@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
