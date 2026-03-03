@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+What do I look like? A JOKE MACHINE!?
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
