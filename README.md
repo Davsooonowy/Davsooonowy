@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
