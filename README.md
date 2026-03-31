@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-"Why do seagulls fly over the ocean?" "Because if they flew over the bay, we'd call them bagels."
+I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
