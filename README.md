@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.
+What's orange and sounds like a parrot? A Carrot.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
