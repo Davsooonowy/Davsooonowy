@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How come a man driving a train got struck by lightning? He was a good conductor.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
