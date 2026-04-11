@@ -13,7 +13,7 @@
   
 - 🌱 Exploring **Software Development** and **DevOps**
   
-- ⚡️ Portfolio: [click here!](https://davsooonowy.github.io/Portfolio/)
+- ⚡️ Portfolio: [click here!](https://portfolio-react-pi-teal.vercel.app/)
   
 - 🙋 Enjoys **hiking** ⛰️, **handball** 🤾, and **playing the guitar** 🎸
 
