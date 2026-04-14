@@ -20,7 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-You can't run through a camp site. You can only ran, because it's past tents.
+"Dad, I'm hungry." Hello, Hungry. I'm Dad.
 <!-- end-joke-content -->
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
