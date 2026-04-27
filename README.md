@@ -20,8 +20,7 @@
 ### Here's a Dad Joke for You! 😄
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's red and bad for your teeth? A Brick.
-<!-- end-joke-content -->
+What is the best way to carve?
 **This joke updates daily! Visit my profile every day for a fresh laugh! 😉**
 
   
