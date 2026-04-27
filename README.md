@@ -28,6 +28,10 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 What kind of magic do cows believe in? MOODOO.
 <!-- end-joke-content -->
 
+*Updates daily — come back tomorrow for a fresh one.*
+ 
+---
+
 ## Let's connect
  
 <a href="https://github.com/Davsooonowy"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
