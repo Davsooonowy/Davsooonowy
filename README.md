@@ -25,13 +25,5 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-
-*Updates daily — come back tomorrow for a fresh one.*
-
----
-
-## Let's connect
-
-<a href="https://github.com/Davsooonowy"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/dawidmularczykwork"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://portfolio-react-pi-teal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
+What kind of magic do cows believe in? MOODOO.
+<!-- end-joke-content -->
