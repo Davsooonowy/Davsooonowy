@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What kind of magic do cows believe in? MOODOO.
+I gave all my dead batteries away today, free of charge.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
