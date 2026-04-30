@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+Why is no one friends with Dracula? Because he's a pain in the neck.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
