@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why is no one friends with Dracula? Because he's a pain in the neck.
+What is the leading cause of dry skin? Towels
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
