@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What is the leading cause of dry skin? Towels
+What did the doctor say to the gingerbread man who broke his leg? Try icing it.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
