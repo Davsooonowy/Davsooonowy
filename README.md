@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+I knew a guy who collected candy canes, they were all in mint condition
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
