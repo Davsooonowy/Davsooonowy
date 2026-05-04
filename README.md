@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I knew a guy who collected candy canes, they were all in mint condition
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
