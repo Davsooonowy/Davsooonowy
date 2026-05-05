@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Where do hamburgers go to dance? The meat-ball.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
