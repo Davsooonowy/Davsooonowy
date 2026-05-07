@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
