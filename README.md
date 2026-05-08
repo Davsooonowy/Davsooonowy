@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
