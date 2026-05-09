@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+What do you call a cow on a trampoline? A milk shake!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
