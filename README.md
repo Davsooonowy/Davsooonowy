@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a cow on a trampoline? A milk shake!
+What did the digital clock say to the grandfather clock? Look, no hands!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
