@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I fear for the calendar, its days are numbered.
+Why couldn't the kid see the pirate movie? Because it was rated arrr!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
