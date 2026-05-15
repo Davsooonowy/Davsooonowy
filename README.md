@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Shout out to my grandma, that's the only way she can hear.
+I decided to sell my Hoover… well it was just collecting dust.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
