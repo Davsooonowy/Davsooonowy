@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I decided to sell my Hoover… well it was just collecting dust.
+I couldn't get a reservation at the library. They were completely booked.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
