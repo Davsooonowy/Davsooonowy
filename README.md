@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I couldn't get a reservation at the library. They were completely booked.
+Writing with a broken pencil is pointless.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
