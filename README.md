@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Writing with a broken pencil is pointless.
+Which side of the chicken has more feathers? The outside.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
