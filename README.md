@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Which side of the chicken has more feathers? The outside.
+What do you do on a remote island? Try and find the TV island it belongs to.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
