@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you do on a remote island? Try and find the TV island it belongs to.
+The urge to sing the Lion King song is just a whim away.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
