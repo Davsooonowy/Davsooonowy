@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-The urge to sing the Lion King song is just a whim away.
+Slept like a log last night … woke up in the fireplace.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
