@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Slept like a log last night … woke up in the fireplace.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
