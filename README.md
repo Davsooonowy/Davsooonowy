@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why do nurses carry around red crayons? Sometimes they need to draw blood.
+Want to hear my pizza joke? Never mind, it's too cheesy.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
