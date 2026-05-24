@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Want to hear my pizza joke? Never mind, it's too cheesy.
+I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
