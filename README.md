@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
+What do you do on a remote island? Try and find the TV island it belongs to.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
