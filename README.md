@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you do on a remote island? Try and find the TV island it belongs to.
+What did one wall say to the other wall? I'll meet you at the corner!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
