@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did one wall say to the other wall? I'll meet you at the corner!
+Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
