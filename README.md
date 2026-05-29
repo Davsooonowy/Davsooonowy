@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+How do you fix a broken pizza? With tomato paste.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
