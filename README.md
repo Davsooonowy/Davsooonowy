@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How do you fix a broken pizza? With tomato paste.
+Never take advice from electrons. They are always negative.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
