@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Never take advice from electrons. They are always negative.
+What did Yoda say when he saw himself in 4K? "HDMI"
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
