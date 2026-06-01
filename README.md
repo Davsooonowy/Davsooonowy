@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did Yoda say when he saw himself in 4K? "HDMI"
+Why was the broom late for the meeting? He overswept.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
