@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why was the broom late for the meeting? He overswept.
+A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
