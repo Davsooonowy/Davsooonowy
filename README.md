@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”
+‘Put the cat out’ … ‘I didn’t realize it was on fire
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
