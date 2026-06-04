@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-‘Put the cat out’ … ‘I didn’t realize it was on fire
+What did the drummer name her twin daughters? Anna One, Anna Two...
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
