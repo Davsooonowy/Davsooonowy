@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the drummer name her twin daughters? Anna One, Anna Two...
+Animal Fact #25: Most bobcats are not named bob.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
