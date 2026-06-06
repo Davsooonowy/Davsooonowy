@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Animal Fact #25: Most bobcats are not named bob.
+How many tickles does it take to tickle an octopus? Ten-tickles!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
