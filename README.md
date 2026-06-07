@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How many tickles does it take to tickle an octopus? Ten-tickles!
+Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
