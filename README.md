@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-"Dad, I'm hungry." Hello, Hungry. I'm Dad.
+To be Frank, I'd have to change my name.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
