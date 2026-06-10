@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-To be Frank, I'd have to change my name.
+Where did you learn to make ice cream? Sunday school.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
