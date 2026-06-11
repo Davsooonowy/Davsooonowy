@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where did you learn to make ice cream? Sunday school.
+My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
