@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
