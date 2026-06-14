@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
