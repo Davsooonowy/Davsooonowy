@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”
+I am terrified of elevators. I’m going to start taking steps to avoid them.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
