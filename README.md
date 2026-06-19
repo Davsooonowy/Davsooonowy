@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+A ghost walks into a bar and asks for a glass of vodka but the bar tender says, “sorry we don’t serve spirits”
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
