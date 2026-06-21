@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Geology rocks, but Geography is where it's at!
+What do you call a fly without wings? A walk.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
