@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a fly without wings? A walk.
+I fear for the calendar, its days are numbered.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
