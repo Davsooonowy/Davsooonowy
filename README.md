@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why can't a bicycle stand on its own? It's two-tired.
+Breaking news! Energizer Bunny arrested – charged with battery.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
