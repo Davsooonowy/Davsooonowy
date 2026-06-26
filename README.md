@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Breaking news! Energizer Bunny arrested – charged with battery.
+What do you call a cow with two legs? Lean beef.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
