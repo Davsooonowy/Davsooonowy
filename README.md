@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a cow with two legs? Lean beef.
+What does a clock do when it's hungry? It goes back four seconds!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
