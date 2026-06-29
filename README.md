@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What does a clock do when it's hungry? It goes back four seconds!
+What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
