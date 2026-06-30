@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+I've got a joke about vegetables for you... but it's a bit corny.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
