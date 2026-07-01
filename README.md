@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I've got a joke about vegetables for you... but it's a bit corny.
+Why was the robot angry? Because someone kept pressing his buttons!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
