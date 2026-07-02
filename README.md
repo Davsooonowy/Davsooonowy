@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why was the robot angry? Because someone kept pressing his buttons!
+I used to think I was indecisive, but now I'm not sure.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
