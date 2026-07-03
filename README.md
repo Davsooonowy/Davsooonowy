@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I used to think I was indecisive, but now I'm not sure.
+How does a French skeleton say hello? Bone-jour.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
