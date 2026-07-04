@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How does a French skeleton say hello? Bone-jour.
+I went to a Foo Fighters Concert once... It was Everlong...
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
