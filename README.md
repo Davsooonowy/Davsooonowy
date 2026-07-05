@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I went to a Foo Fighters Concert once... It was Everlong...
+What do you call a duck that gets all A's? A wise quacker.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
