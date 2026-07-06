@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a duck that gets all A's? A wise quacker.
+Do you know where you can get chicken broth in bulk? The stock market.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
