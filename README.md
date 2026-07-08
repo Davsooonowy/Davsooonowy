@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Do you know where you can get chicken broth in bulk? The stock market.
+What time did the man go to the dentist? Tooth hurt-y.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
