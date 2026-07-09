@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What time did the man go to the dentist? Tooth hurt-y.
+Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
