@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
