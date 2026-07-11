@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.
+I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
