@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel
+I burned 2000 calories today, I left my food in the oven for too long.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
