@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I burned 2000 calories today, I left my food in the oven for too long.
+What do you call a fish wearing a bowtie? Sofishticated.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
