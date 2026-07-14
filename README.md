@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a fish wearing a bowtie? Sofishticated.
+Why was the shirt happy to hang around the tank top? Because it was armless
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
