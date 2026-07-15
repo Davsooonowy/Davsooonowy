@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why was the shirt happy to hang around the tank top? Because it was armless
+What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
