@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a crowd of chess players bragging about their wins in a hotel lobby? Chess nuts boasting in an open foyer.
+What do bees do after they are married? They go on a honeymoon.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
