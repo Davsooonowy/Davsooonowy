@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+Some people eat light bulbs. They say it's a nice light snack.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
