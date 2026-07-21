@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Some people eat light bulbs. They say it's a nice light snack.
+What creature is smarter than a talking parrot? A spelling bee.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
