@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What creature is smarter than a talking parrot? A spelling bee.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
