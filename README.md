@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Why are skeletons so calm? Because nothing gets under their skin.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
