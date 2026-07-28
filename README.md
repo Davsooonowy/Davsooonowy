@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Conjunctivitis.com – now that’s a site for sore eyes.
+Why did the man run around his bed? Because he was trying to catch up on his sleep!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
