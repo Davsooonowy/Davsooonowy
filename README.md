@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the ocean say to the shore? Nothing, it just waved.
+Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
