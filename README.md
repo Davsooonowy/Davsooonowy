@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
