@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Somebody stole my Microsoft Office and they're going to pay - you have my Word.
+I heard there was a new store called Moderation. They have everything there
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
