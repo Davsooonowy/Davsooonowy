@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I heard there was a new store called Moderation. They have everything there
+What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
