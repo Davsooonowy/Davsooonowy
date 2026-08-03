@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+I just wrote a book on reverse psychology. Do not read it!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
