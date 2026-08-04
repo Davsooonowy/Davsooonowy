@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I just wrote a book on reverse psychology. Do not read it!
+People are making apocalypse jokes like there’s no tomorrow.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
