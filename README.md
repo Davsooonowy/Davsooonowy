@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-People are making apocalypse jokes like there’s no tomorrow.
+How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
