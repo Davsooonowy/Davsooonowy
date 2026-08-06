@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+What’s Forest Gump’s Facebook password? 1forest1
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
