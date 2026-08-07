@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What’s Forest Gump’s Facebook password? 1forest1
+I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
