@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
+How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
