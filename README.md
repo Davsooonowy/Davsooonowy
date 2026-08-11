@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.
+How many apples grow on a tree? All of them!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
