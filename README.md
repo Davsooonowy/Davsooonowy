@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How many apples grow on a tree? All of them!
+Bad at golf? Join the club.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
