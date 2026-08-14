@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a nervous javelin thrower? Shakespeare.
+A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
