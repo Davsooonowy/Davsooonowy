@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+Why are skeletons so calm? Because nothing gets under their skin.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
