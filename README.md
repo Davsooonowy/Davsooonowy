@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
