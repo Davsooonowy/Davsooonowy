@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Feeling pretty proud of myself. The Sesame Street puzzle I bought said 3-5 years, but I finished it in 18 months.
+If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
