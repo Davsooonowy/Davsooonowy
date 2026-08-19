@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+You can't run through a camp site. You can only ran, because it's past tents.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
