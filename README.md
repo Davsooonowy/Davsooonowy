@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-You can't run through a camp site. You can only ran, because it's past tents.
+Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
