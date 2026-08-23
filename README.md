@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the beaver say to the tree? It's been nice gnawing you.
+To the person who stole my anti-depressant pills: I hope you're happy now.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
