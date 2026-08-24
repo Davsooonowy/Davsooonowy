@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-To the person who stole my anti-depressant pills: I hope you're happy now.
+I considered building the patio by myself. But I didn't have the stones.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
