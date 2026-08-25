@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I considered building the patio by myself. But I didn't have the stones.
+Don't buy flowers at a monastery. Because only you can prevent florist friars.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
