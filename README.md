@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why do bees hum? Because they don't know the words.
+Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
