@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
