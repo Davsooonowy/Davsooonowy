@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+A farmer had 297 cows, when he rounded them up, he found he had 300
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
