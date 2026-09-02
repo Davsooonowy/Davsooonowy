@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call an Argentinian with a rubber toe? Roberto
+I’ll tell you something about German sausages, they’re the wurst
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
