@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I’ll tell you something about German sausages, they’re the wurst
+Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
