@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because there’s a Shortstop in between!
+Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
