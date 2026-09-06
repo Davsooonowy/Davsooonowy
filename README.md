@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Today a girl said she recognized me from vegetarian club, but I’m sure I’ve never met herbivore.
+A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
