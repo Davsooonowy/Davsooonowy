@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+Did you hear about the Mexican train killer? He had loco motives
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
