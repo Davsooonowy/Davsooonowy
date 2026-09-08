@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you hear about the Mexican train killer? He had loco motives
+I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
