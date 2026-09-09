@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+What did the beaver say to the tree? It's been nice gnawing you.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
