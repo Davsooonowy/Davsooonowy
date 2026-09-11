@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Parallel lines have so much in common. It’s a shame they’ll never meet.
+Why did the belt go to prison? He held up a pair of pants!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
