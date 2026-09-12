@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why did the belt go to prison? He held up a pair of pants!
+What does an angry pepper do? It gets jalapeño face.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
