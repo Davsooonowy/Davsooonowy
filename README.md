@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What does an angry pepper do? It gets jalapeño face.
+Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
