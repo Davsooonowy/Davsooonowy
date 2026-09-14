@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
