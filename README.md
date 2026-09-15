@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-“Doctor, I’ve broken my arm in several places” Doctor “Well don’t go to those places.”
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
