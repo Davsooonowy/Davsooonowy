@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why do cows not have toes? They lactose!
+Where do young cows eat lunch? In the calf-ateria.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
