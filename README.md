@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where do young cows eat lunch? In the calf-ateria.
+How many bones are in the human hand? A handful of them.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
