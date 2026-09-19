@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How many bones are in the human hand? A handful of them.
+What do you do when your bunny gets wet? You get your hare dryer.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
