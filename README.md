@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you do when your bunny gets wet? You get your hare dryer.
+I decided to sell my Hoover… well it was just collecting dust.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
