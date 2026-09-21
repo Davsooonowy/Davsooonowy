@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I decided to sell my Hoover… well it was just collecting dust.
+"I'm sorry." "Hi sorry, I'm dad"
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
