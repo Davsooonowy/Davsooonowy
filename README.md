@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-"I'm sorry." "Hi sorry, I'm dad"
+What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
