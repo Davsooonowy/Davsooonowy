@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
+Did you hear the joke about the wandering nun? She was a roman catholic.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
