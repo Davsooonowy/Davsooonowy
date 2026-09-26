@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Did you hear the joke about the wandering nun? She was a roman catholic.
+A bartender broke up with her boyfriend, but he kept asking her for another shot.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
