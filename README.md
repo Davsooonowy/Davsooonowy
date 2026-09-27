@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-A bartender broke up with her boyfriend, but he kept asking her for another shot.
+Two peanuts were walking down the street. One was a salted.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
