@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Two peanuts were walking down the street. One was a salted.
+How many South Americans does it take to change a lightbulb? A Brazilian
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
