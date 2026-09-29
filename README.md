@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How many South Americans does it take to change a lightbulb? A Brazilian
+Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
