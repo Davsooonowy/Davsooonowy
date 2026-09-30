@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
