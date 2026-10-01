@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
