@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
+Where’s the bin? Dad: I haven’t been anywhere!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
