@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where’s the bin? Dad: I haven’t been anywhere!
+What did Michael Jackson name his denim store?    Billy Jeans!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
