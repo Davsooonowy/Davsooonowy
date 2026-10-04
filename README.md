@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did Michael Jackson name his denim store?    Billy Jeans!
+What do you call a fly without wings? A walk.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
