@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a fly without wings? A walk.
+What do you call a magician who has lost their magic? Ian.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
