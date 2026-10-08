@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I tried to write a chemistry joke, but could never get a reaction.
+What do you call an old snowman? Water.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
