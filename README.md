@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, you’re pretty repulsive yourself.
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
