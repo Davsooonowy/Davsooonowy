@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
