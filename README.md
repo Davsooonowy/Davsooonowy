@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the grape do when he got stepped on? He let out a little wine.
+I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
