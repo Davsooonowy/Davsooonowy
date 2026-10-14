@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
+What do you call a pile of cats?  A Meowtain.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
