@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a pile of cats?  A Meowtain.
+I was going to learn how to juggle, but I didn't have the balls.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
