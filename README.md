@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I was going to learn how to juggle, but I didn't have the balls.
+What's blue and not very heavy?  Light blue.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
