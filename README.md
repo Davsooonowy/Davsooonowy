@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's blue and not very heavy?  Light blue.
+Writing with a broken pencil is pointless.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
