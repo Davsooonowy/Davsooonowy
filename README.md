@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Two dyslexics walk into a bra.
+I was wondering why the frisbee was getting bigger, then it hit me.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
