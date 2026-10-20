@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I was wondering why the frisbee was getting bigger, then it hit me.
+Someone asked me to name two structures that hold water. I said "Well dam"
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
