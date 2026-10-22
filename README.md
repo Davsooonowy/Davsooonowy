@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
+I just got fired from a florist, apparently I took too many leaves.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
