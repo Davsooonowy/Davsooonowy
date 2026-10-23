@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I just got fired from a florist, apparently I took too many leaves.
+What concert costs only 45 cents? 50 cent featuring Nickelback.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
