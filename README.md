@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What concert costs only 45 cents? 50 cent featuring Nickelback.
+What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
