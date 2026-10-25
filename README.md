@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What is worse then finding a worm in your Apple? Finding half a worm in your Apple.
+How many South Americans does it take to change a lightbulb? A Brazilian
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
