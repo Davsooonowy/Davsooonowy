@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why was Pavlov's beard so soft?  Because he conditioned it.
+What kind of music do mummy's like? Rap
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
