@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What does a female snake use for support? A co-Bra!
+I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
