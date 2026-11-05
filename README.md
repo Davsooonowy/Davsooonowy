@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Where do bees go to the bathroom?  The BP station.
+Dad, can you put my shoes on? I don't think they'll fit me.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
