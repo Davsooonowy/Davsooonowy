@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Dad, can you put my shoes on? I don't think they'll fit me.
+What do you call a dad that has fallen through the ice? A Popsicle.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
