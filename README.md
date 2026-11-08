@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What do you call a dad that has fallen through the ice? A Popsicle.
+What did the left eye say to the right eye? Between us, something smells!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
