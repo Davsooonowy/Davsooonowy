@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What did the left eye say to the right eye? Between us, something smells!
+I remember when I was a kid, I opened my fridge and noticed one of my vegetables were crying. I guess I have some emotional cabbage.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
