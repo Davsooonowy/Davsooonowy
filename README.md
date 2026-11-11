@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-To the guy who invented zero... thanks for nothing.
+At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
