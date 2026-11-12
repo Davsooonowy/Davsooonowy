@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-At the boxing match, the dad got into the popcorn line and the line for hot dogs, but he wanted to stay out of the punchline.
+When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
