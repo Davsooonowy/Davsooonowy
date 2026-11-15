@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Whats a penguins favorite relative? Aunt Arctica.
+Why do bees hum? Because they don't know the words.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
