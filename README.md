@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why do bees hum? Because they don't know the words.
+Did you hear the one about the guy with the broken hearing aid? Neither did he.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
