@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-My boss told me to have a good day... so I went home.
+Without geometry life is pointless.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
