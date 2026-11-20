@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Without geometry life is pointless.
+I broke my finger at work today, on the other hand I'm completely fine.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
