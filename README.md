@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I broke my finger at work today, on the other hand I'm completely fine.
+What's blue and not very heavy?  Light blue.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
