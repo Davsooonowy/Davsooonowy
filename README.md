@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's blue and not very heavy?  Light blue.
+What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
