@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.
+Have you heard about corduroy pillows?  They're making headlines!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
