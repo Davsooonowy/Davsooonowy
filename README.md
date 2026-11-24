@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Have you heard about corduroy pillows?  They're making headlines!
+It's only a murder of crows if there's probable caws.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
