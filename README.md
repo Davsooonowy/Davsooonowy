@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-New atoms frequently lose electrons when they fail to keep an ion them.
+Why did the m&m go to school? Because it wanted to be a Smartie!
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
