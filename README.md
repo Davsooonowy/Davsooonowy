@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-Why did the m&m go to school? Because it wanted to be a Smartie!
+I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
