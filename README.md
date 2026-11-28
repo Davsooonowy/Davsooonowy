@@ -25,7 +25,7 @@ I'm currently deep in **Software Engineering** and **Agentic AI** — building t
 
 <!-- joke-placeholder -->
 <!-- joke-content -->
-I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
+Why do nurses carry around red crayons? Sometimes they need to draw blood.
 <!-- end-joke-content -->
 
 *Updates daily — come back tomorrow for a fresh one.*
